@@ -2,8 +2,9 @@ html {
   position: relative;
   min-height: 100%;
 }
-body {
-  margin-bottom: 170px !important;
+html body {
+  /* margin-bottom: 170px !important; */
+  margin-bottom: 170px;
 }
 footer {
   position: absolute;
